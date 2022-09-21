@@ -13,9 +13,9 @@ contact: ["krword@carpentries.org", "mike.henry@choderalab.org"]    # boxed, com
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
-
   - venue: "Online" 
     address: ""
+    
 ---
 
 
